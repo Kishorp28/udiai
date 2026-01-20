@@ -1,0 +1,47 @@
+2. Aadhaar Demographic Update dataset
+This dataset captures aggregated information related to updates made to residents’ demographic data linked to Aadhaar, such as name, address, date of birth, gender, and mobile number. It provides insights into the frequency and distribution of demographic changes across different time periods and geographic levels (state, district, and PIN code).
+date,state,district,pincode,demo_age_5_17,demo_age_17_
+01-03-2025,Uttar Pradesh,Gorakhpur,273213,49,529
+01-03-2025,Andhra Pradesh,Chittoor,517132,22,375
+01-03-2025,Gujarat,Rajkot,360006,65,765
+01-03-2025,Andhra Pradesh,Srikakulam,532484,24,314
+01-03-2025,Rajasthan,Udaipur,313801,45,785
+01-03-2025,Rajasthan,Sikar,332028,28,285
+01-03-2025,Karnataka,Tumakuru,572201,88,332
+01-03-2025,Uttar Pradesh,Gorakhpur,273211,61,836
+date,state,district,pincode,demo_age_5_17,demo_age_17_
+19-09-2025,Maharashtra,Satara,415517,0,2
+19-09-2025,Maharashtra,Satara,415518,0,2
+19-09-2025,Maharashtra,Satara,415520,0,3
+19-09-2025,Maharashtra,Satara,415539,1,5
+19-09-2025,Maharashtra,Sindhudurg,416510,4,37
+19-09-2025,Maharashtra,Sindhudurg,416514,0,2
+19-09-2025,Maharashtra,Sindhudurg,416523,0,1
+
+3. Aadhaar Biometric Update dataset
+This dataset contains aggregated information on biometric updates (modalities such as fingerprints, iris, and face). It reflects the periodic revalidation or correction of biometric details, especially for children transitioning into adulthood.
+date,state,district,pincode,bio_age_5_17,bio_age_17_
+01-03-2025,Haryana,Mahendragarh,123029,280,577
+01-03-2025,Bihar,Madhepura,852121,144,369
+01-03-2025,Jammu and Kashmir,Punch,185101,643,1091
+01-03-2025,Bihar,Bhojpur,802158,256,980
+01-03-2025,Tamil Nadu,Madurai,625514,271,815
+01-03-2025,Maharashtra,Ratnagiri,416702,155,529
+01-03-2025,Gujarat,Anand,388130,75,143
+01-03-2025,Gujarat,Gandhinagar,382421,192,298
+01-03-2025,Odisha,Dhenkanal,759025,122,214
+01-03-2025,Gujarat,Valsad,396055,67,85
+01-03-2025,Tamil Nadu,Salem,636119,103,63
+date,state,district,pincode,bio_age_5_17,bio_age_17_
+07-11-2025,Haryana,Yamuna Nagar,135002,4,6
+07-11-2025,Haryana,Yamunanagar,135001,1,2
+07-11-2025,Himachal Pradesh,Bilaspur,174004,2,2
+07-11-2025,Himachal Pradesh,Bilaspur,174005,1,0
+07-11-2025,Himachal Pradesh,Bilaspur,174013,3,1
+07-11-2025,Himachal Pradesh,Bilaspur,174021,21,4
+07-11-2025,Himachal Pradesh,Bilaspur,174024,0,1
+07-11-2025,Himachal Pradesh,Bilaspur,174027,2,3
+07-11-2025,Himachal Pradesh,Bilaspur,174029,12,5
+07-11-2025,Himachal Pradesh,Bilaspur,174031,1,1
+07-11-2025,Himachal Pradesh,Bilaspur,174201,2,1
+07-11-2025,Himachal Pradesh,Chamba,176312,16,3
