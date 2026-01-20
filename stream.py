@@ -6,8 +6,6 @@ Comprehensive analysis of Aadhaar enrolment and update datasets
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
@@ -112,7 +110,7 @@ st.markdown("""
 
 class AadhaarStreamlitDashboard:
     def __init__(self):
-        self.base_path = "E:/UDAI/hack"
+        self.base_path = os.getcwd()
         self.enrolment_df = None
         self.demographic_df = None
         self.biometric_df = None
